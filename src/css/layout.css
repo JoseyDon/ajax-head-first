@@ -1,0 +1,32 @@
+label
+{
+	float: left;
+	width: 80px;
+	line-height:25px;
+} 
+form
+{
+	margin:0px
+} 
+input
+{
+	width: 180px;
+	border:1px solid #808080;
+} 
+p
+{
+	float: left;
+}
+#demoForm
+{
+	margin-left: 80px;
+	margin-top: 5px;
+	width:80px;
+} 
+ 
+br{clear: left;} 
+
+.error
+{
+	color: red;
+}
